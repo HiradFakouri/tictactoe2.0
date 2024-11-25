@@ -1,4 +1,5 @@
 #still in progree not used in the main game yet.
+#this will make the dum ai into a smart one :)
 score = {
     "o": 10,
     "x": -10
