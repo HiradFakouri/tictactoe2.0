@@ -29,4 +29,4 @@ A simple implementation of the classic **Tic Tac Toe** game, designed for two pl
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/HiradFakouri/tictactoe2.0
