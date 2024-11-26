@@ -8,9 +8,7 @@ A simple implementation of the classic **Tic Tac Toe** game, designed for two pl
 
 - **Two-player mode**: Play with a friend locally.
 - **Single-player mode**: Challenge a "dumb AI" that makes random moves.
-- **Simple and intuitive interface**: Easy to play and navigate.
-- **Cross-platform**: Works on any platform that supports Python/JavaScript/etc. (specify the language you're using).
-
+  
 ---
 
 ## How to Play 🕹️
